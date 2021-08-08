@@ -35,6 +35,20 @@ import MapView, { Marker } from "react-native-maps";
 import { TouchableOpacity } from "react-native-gesture-handler";
 import { Ionicons } from "@expo/vector-icons";
 import colors from "../../constants/Colors";
+import { useFonts } from "expo-font";
+import { 
+  Rubik_300Light,
+  Rubik_300Light_Italic,
+  Rubik_400Regular,
+  Rubik_400Regular_Italic,
+  Rubik_500Medium,
+  Rubik_500Medium_Italic,
+  Rubik_700Bold,
+  Rubik_700Bold_Italic,
+  Rubik_900Black,
+  Rubik_900Black_Italic 
+} from '@expo-google-fonts/rubik'
+
 
 const LOS_ANGELES_REGION = {
   latitude: 33.986072440676935, 
@@ -44,6 +58,12 @@ const LOS_ANGELES_REGION = {
 };
 
 export default function MapScreen() {
+  let [fontsLoaded, error] = useFonts({
+    'Graphik-Regular':require('../../assets/fonts/Graphik-Regular.otf'),
+    'Graphik-Semibold':require('../../assets/fonts/Graphik-Semibold.otf'),
+    'Graphik-Bold':require('../../assets/fonts/Graphik-Bold.otf')
+  });
+
   const [currLocation, setCurrLocation] = useState(null);
   const mapView = useRef(null);
 
@@ -161,7 +181,12 @@ export default function MapScreen() {
           borderTopRightRadius: 50,
         }}
       >
-        <Text style={{top: 20, left: 20, fontSize: 20}}>
+        <Text style={{
+            top: 20, 
+            left: 20, 
+            fontSize: 20, 
+            fontFamily: 'Graphik-Regular'
+          }}>
           Non-Profit Organizations
         </Text>
         
