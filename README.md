@@ -37,12 +37,12 @@ expo r -c
 
 ## Link + Instructions
 
-Link: https://github.com/JonathanCNg/UnityBySnap
+Link: https://github.com/Danieladd9/UnityBySnap
 
 Instructions:
 1. Login with
 
-Username: jon@gmail.com
+Username: test@gmail.com
 
 Password: abcdef
 
