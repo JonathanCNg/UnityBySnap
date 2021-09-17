@@ -45,7 +45,7 @@ Link: https://github.com/JonathanCNg/UnityBySnap
 Instructions:
 1. Login with
 
-Username: jon@gmail.com <em>(This isn't my actual email! Email me at jonathanchongng@gmail.com)</em>
+Username: jon@gmail.com <em>(This isn't my actual email! Email me at jonathanchongng@gmail.com :smile:)</em>
 
 Password: abcdef
 
