@@ -44,11 +44,8 @@ Link: https://github.com/JonathanCNg/UnityBySnap
 
 Instructions:
 1. Login with
-
-Username: jon@gmail.com <em>(This isn't my actual email! Email me at jonathanchongng@gmail.com :smile:)</em>
-
-Password: abcdef
-
+  Username: jon@gmail.com <em>(This isn't my actual email! Email me at jonathanchongng@gmail.com :smile:)</em>
+  Password: abcdef
 2. Press the leftmost tab, Snap Map.
 3. Explore! If ever unsure about how to proceed, tap anywhere.
 
