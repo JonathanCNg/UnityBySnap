@@ -4,7 +4,7 @@ Description:
 This application is a design-focused prototype of "Unity by Snap", a Snapchat feature I pitched to Snap's Chief Communication Officer, Julie Henderson. Unity is focused on educating users on racial injustices and connecting them to non-profit organizations that can help them make a difference.
 
 ## Short Demo
-Link: <a href="https://youtu.be/MHExwnvIKV4" target="_blank">https://youtu.be/MHExwnvIKV4</a>
+Link: https://youtu.be/MHExwnvIKV4
 
 ## App Experience
 ### Intro modal:
