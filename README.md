@@ -6,7 +6,7 @@ This application is a design-focused prototype of "Unity by Snap", a Snapchat fe
 ## Short Demo
 Link: https://youtu.be/MHExwnvIKV4
 
-## Pitch
+## 5 Minute Pitch
 Link: https://youtu.be/7l0tOqPzJ0E
 
 ## App Experience
