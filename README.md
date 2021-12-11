@@ -53,6 +53,7 @@ Instructions:
 3. Explore! If ever unsure about how to proceed, tap anywhere.
 
 ## Tools Used
+
 1. React Native (https://reactnative.dev/)
 2. Expo (https://expo.dev/)
 3. React Native Maps (https://github.com/react-native-maps/react-native-maps)
@@ -62,3 +63,12 @@ Instructions:
 7. React Native Gifted Chat (https://github.com/FaridSafi/react-native-gifted-chat)
 8. Google Firebase Firestore (https://firebase.google.com/docs/firestore)
 9. Google Firebase Authentication (https://firebase.google.com/docs/auth)
+
+## Additional Slides
+
+<img src="assets/readme/AdditionalSlides/snap_revision.png" height="500" />
+<img src="assets/readme/AdditionalSlides/snap_revision2.png" height="500" />
+<img src="assets/readme/AdditionalSlides/snap_revision3.png" height="500" />
+<img src="assets/readme/AdditionalSlides/snap_revision4.png" height="500" />
+<img src="assets/readme/AdditionalSlides/snap_revision5.png" height="500" />
+<img src="assets/readme/AdditionalSlides/snap_revision6.png" height="500" />
