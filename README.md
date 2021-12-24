@@ -15,7 +15,7 @@ Intro Modal | Bitmoji Walkthrough (Educates Users) | Organization Bio (connects 
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="assets/readme/IntroFrameDemo.png" height="400" /> | <img src="assets/readme/BitmojiWalkthroughDemo.gif" height="400" /> | <img src="assets/readme/CoCoFrameDemo.png" height="400" />
 
-## Cool Technical Aspects
+## Fun Technical Aspects
 
 Maps API | Organization Bio Slide Up (and map movement)
 :-------------------------:|:-------------------------:
