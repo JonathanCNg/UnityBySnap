@@ -11,9 +11,10 @@ Link: https://youtu.be/7l0tOqPzJ0E
 
 ## App Experience
 
-Intro Modal | Bitmoji Walkthrough
-:-------------------------:|:-------------------------:
-<img src="assets/readme/IntroFrameDemo.png" height="400" /> | <img src="assets/readme/BitmojiWalkthroughDemo.gif" height="400" />
+Intro Modal | Bitmoji Walkthrough (Educates Users) | Organization Bio (connects users):
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="assets/readme/IntroFrameDemo.png" height="400" /> | <img src="assets/readme/BitmojiWalkthroughDemo.gif" height="400" /> | <img src="assets/readme/CoCoFrameDemo.png" height="400" />
+
 ### Intro modal:
 <img src="assets/readme/IntroFrameDemo.png" height="400" />
 
