@@ -15,21 +15,11 @@ Intro Modal | Bitmoji Walkthrough (Educates Users) | Organization Bio (connects 
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="assets/readme/IntroFrameDemo.png" height="400" /> | <img src="assets/readme/BitmojiWalkthroughDemo.gif" height="400" /> | <img src="assets/readme/CoCoFrameDemo.png" height="400" />
 
-### Intro modal:
-<img src="assets/readme/IntroFrameDemo.png" height="400" />
-
-### Bitmoji Walkthough (educates users):
-<img src="assets/readme/BitmojiWalkthroughDemo.gif" height="400" />
-
-### Organization Bio (connects users):
-<img src="assets/readme/CoCoFrameDemo.png" height="400" />
-
 ## Cool Technical Aspects
-### Maps API
-<img src="assets/readme/MapDemo.gif" height="400" />
 
-### Organization Bio Slide Up (and map movement)
-<img src="assets/readme/CoCoDemo.gif" height="400" />
+Maps API | Organization Bio Slide Up (and map movement)
+:-------------------------:|:-------------------------:
+<img src="assets/readme/MapDemo.gif" height="400" /> | <img src="assets/readme/CoCoDemo.gif" height="400" />
 
 ## To Run
 
