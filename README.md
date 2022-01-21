@@ -34,17 +34,11 @@ expo r -c
 4. Download Expo Go application on your mobile device (https://expo.dev/client).
 5. On your mobile device's native camera application, scan the QR code. You should be directed to Expo Go.
 6. Once it loads, you're in!
-
-## Link + Instructions
-
-Link: https://github.com/JonathanCNg/UnityBySnap
-
-Instructions:
-1. Login with 
+7. Login with 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Username: jon@gmail.com <em>(This isn't my actual email! Email me at jonathanchongng@gmail.com :smile:)</em><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Password: abcdef
-2. Press the leftmost tab, Snap Map.
-3. Explore! If ever unsure about how to proceed, tap anywhere.
+8. Press the leftmost tab, Snap Map.
+9. Explore! If ever unsure about how to proceed, tap anywhere.
 
 ## Tools Used
 
