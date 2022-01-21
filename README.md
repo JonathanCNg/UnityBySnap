@@ -10,15 +10,15 @@ Link: https://youtu.be/7l0tOqPzJ0E
 
 ## App Experience
 
-Intro Modal | Education | Non-Profit
-:-------------------------:|:-------------------------:|:-------------------------:
-<img src="assets/readme/IntroFrameDemo.png" height="400" /> | <img src="assets/readme/BitmojiWalkthroughDemo.gif" height="400" /> | <img src="assets/readme/CoCoFrameDemo.png" height="400" />
+~ | Intro Modal | Education | Non-Profit
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+**Samples** | <img src="assets/readme/IntroFrameDemo.png" height="400" /> | <img src="assets/readme/BitmojiWalkthroughDemo.gif" height="400" /> | <img src="assets/readme/CoCoFrameDemo.png" height="400" />
 
 ## Fun Technical Aspects
 
-Maps API | Organization Bio Slide Up (and map movement)
-:-------------------------:|:-------------------------:
-<img src="assets/readme/MapDemo.gif" height="400" /> | <img src="assets/readme/CoCoDemo.gif" height="400" />
+~ | Maps API | Organization Bio Slide Up (and map movement)
+:-------------------------:|:-------------------------:|:-------------------------:
+**Samples** | <img src="assets/readme/MapDemo.gif" height="400" /> | <img src="assets/readme/CoCoDemo.gif" height="400" />
 
 ## To Run
 
