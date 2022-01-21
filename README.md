@@ -16,7 +16,7 @@ Link: https://youtu.be/7l0tOqPzJ0E
 
 ## Fun Technical Aspects
 
-~ | Maps API | Organization Bio Slide Up (and map movement)
+~ | Maps API | Organization Bio Slide Up <br/> (and map movement)
 :-------------------------:|:-------------------------:|:-------------------------:
 **Samples** | <img src="assets/readme/MapDemo.gif" height="400" /> | <img src="assets/readme/CoCoDemo.gif" height="400" />
 
