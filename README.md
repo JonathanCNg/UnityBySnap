@@ -1,6 +1,5 @@
 # Unity by Snap
 
-Description:
 This application is a design-focused prototype of "Unity by Snap", a Snapchat feature I pitched to Snap's Chief Communication Officer, Julie Henderson. Unity is focused on educating users on racial injustices and connecting them to non-profit organizations that can help them make a difference.
 
 ## Short Demo
@@ -11,7 +10,7 @@ Link: https://youtu.be/7l0tOqPzJ0E
 
 ## App Experience
 
-Intro Modal | Bitmoji Walkthrough (Educates Users) | Organization Bio (connects users):
+Intro Modal | Education | Non-Profit
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="assets/readme/IntroFrameDemo.png" height="400" /> | <img src="assets/readme/BitmojiWalkthroughDemo.gif" height="400" /> | <img src="assets/readme/CoCoFrameDemo.png" height="400" />
 
