@@ -10,7 +10,7 @@ Link: https://youtu.be/7l0tOqPzJ0E
 
 ## App Experience
 
-~ | Intro Modal | Education | Non-Profit
+~ | Welcome | Educate | Connect
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 **Samples** | <img src="assets/readme/IntroFrameDemo.png" height="400" /> | <img src="assets/readme/BitmojiWalkthroughDemo.gif" height="400" /> | <img src="assets/readme/CoCoFrameDemo.png" height="400" />
 
