@@ -18,7 +18,7 @@ Link: https://youtu.be/7l0tOqPzJ0E
 
 ~ | Maps API | Organization Bio Slide Up <br/> (and map movement)
 :-------------------------:|:-------------------------:|:-------------------------:
-**Samples** | <img src="assets/readme/MapDemo.gif" height="400" /> | <img src="assets/readme/CoCoDemo.gif" height="400" />
+**Samples** | <img src="assets/readme/MapDemo.gif" height="500" /> | <img src="assets/readme/CoCoDemo.gif" height="500" />
 
 ## To Run
 
